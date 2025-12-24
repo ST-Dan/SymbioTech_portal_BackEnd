@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment-specific files
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+dist/
+sdist/
+*.egg-info/
+.installed.cfg
+*.whl
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.egg-info
+
+# Jupyter Notebook related files
+.ipynb_checkpoints/
+
+# Python log files
+*.log
+
+# OS or Editor specific files (customize as needed)
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.sqlite
+instance/  # If you're using instance folders for your Flask app
+
+# Other temporary files
+*.pyc
+*~$
+*.sql
