@@ -1,6 +1,4 @@
-Here is the full, non-truncated raw text for your `README.md`.
 
-```markdown
 # Symbiotech Attendance API
 
 A lightweight, Dockerized Flask API designed for managing user authentication and tracking employee attendance logs. This project uses PostgreSQL for data persistence and is configured for easy deployment using Docker Compose.
